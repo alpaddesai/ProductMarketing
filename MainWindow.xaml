@@ -1,0 +1,58 @@
+﻿<Window x:Class="ProductMarketing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProductMarketing"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="598" Width="1056" MaxWidth="1056" MaxHeight="598">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="547*"/>
+        </Grid.RowDefinitions>
+        <TabControl Grid.RowSpan="2">
+            <TabItem Header="Product Marketing">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="13*"/>
+                        <ColumnDefinition Width="92*"/>
+                    </Grid.ColumnDefinitions>
+                    <TabControl Grid.ColumnSpan="2">
+                        <TabItem Header="Marketing Plan">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="9,12,25,14" Stretch="Fill" Source="/MarketingCampaign.png"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Content Generation">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="6,5,10,13" Stretch="Fill" Source="ContentGeneration.png"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Example" Height="20" VerticalAlignment="Top">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="Customer Needs">
+                            <Grid Background="#FFE5E5E5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="191*"/>
+                                    <ColumnDefinition Width="853*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Grid.ColumnSpan="2" Margin="16,6,20,12" Stretch="Fill" Source="/RevenueByEachCustomer.png"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Revenue Forecast">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="24,7,28,17" Stretch="Fill" Source="/RevenueForecastPerRegion.png"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

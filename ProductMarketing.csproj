@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ContentGeneration.png" />
+    <None Remove="MarketingCampaign.png" />
+    <None Remove="RevenueByEachCustomer.png" />
+    <None Remove="RevenueForecastPerRegion.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ContentGeneration.png" />
+    <Resource Include="MarketingCampaign.png" />
+    <Resource Include="RevenueByEachCustomer.png" />
+    <Resource Include="RevenueForecastPerRegion.png" />
+  </ItemGroup>
+
+</Project>
