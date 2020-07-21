@@ -4,28 +4,7 @@ The project provides an introduction to creating a marketing plan, content gener
 
 Images are custom. Confidential information is not displayed.
 
-Please download the executable in 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Please download the executable in https://github.com/alpaddesai/ProductMarketing/releases
 
 
 
