@@ -19,5 +19,8 @@ Also Reference https://github.com/alpaddesai/TechnicalProductManagement for furt
 ## Revenue Forecast
 ![image](RevenueForecast.png)
 
+## Pragmatic Marketing 
+![image](PragmaticMarketingCertificate.jpg)
+
 
 
