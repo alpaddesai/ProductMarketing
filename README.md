@@ -5,7 +5,7 @@ The project provides an introduction to creating a marketing plan, content gener
 Images are custom. Confidential information is not displayed.
 
 Please download the executable in https://github.com/alpaddesai/ProductMarketing/releases
-Also Reference https://github.com/alpaddesai/TechnicalProductManagement for further details.
+Also Reference https://github.com/alpaddesai/TechnicalProductManagement and https://github.com/alpaddesai/Sales for further details.
 
 ## Marketing Plan 
 ![image](MarketingPlan.png)
