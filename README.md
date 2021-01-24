@@ -22,5 +22,5 @@ Also Reference https://github.com/alpaddesai/TechnicalProductManagement . https:
 ## Pragmatic Marketing 
 ![image](PragmaticMarketingCertificate.jpg)
 
-
+![image](USCopyrightCertificateofRegistration.png)
 
