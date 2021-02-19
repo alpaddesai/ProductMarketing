@@ -26,8 +26,6 @@ Please download the executable in https://github.com/alpaddesai/ProductMarketing
 
 ![image](Image2.jpg)
 
-![image](image2.jpg)
-
 ![image](image3.jpg)
 
 ![image](image4.jpg)
