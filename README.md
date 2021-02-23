@@ -32,6 +32,4 @@ Please download the executable in https://github.com/alpaddesai/ProductMarketing
 
 ![image](image5.jpg)
 
-![image](USCopyrightCertificateofRegistration.png)
-
 Also reference https://github.com/alpaddesai/TechnicalProductManagement . https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea,  https://github.com/alpaddesai/Sales, https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea , https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/SmartGridDesignIdea for further details.
