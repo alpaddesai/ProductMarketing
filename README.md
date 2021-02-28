@@ -15,7 +15,7 @@ Please download the executable in https://github.com/alpaddesai/ProductMarketing
 ## Customer Needs
 ![image](CustomerNeeds.png)
 
-## Revenue Forecast
+## Revenue Forecast, Brand Management
 ![image](RevenueForecast.png)
 
 ## Pragmatic Marketing 
