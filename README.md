@@ -32,9 +32,6 @@ Please download the executable in https://github.com/alpaddesai/ProductMarketing
 
 ![image](image5.jpg)
 
-## Interest
-![image](Image_ter.png)
-
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
