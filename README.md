@@ -35,4 +35,6 @@ Please download the executable in https://github.com/alpaddesai/ProductMarketing
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Also reference https://github.com/alpaddesai/TechnicalProductManagement and https://github.com/alpaddesai/SystemLevelDesignProductPortfolioIdea for further details.
