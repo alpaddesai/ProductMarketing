@@ -18,9 +18,6 @@ Please download the executable in https://github.com/alpaddesai/ProductMarketing
 ## Revenue Forecast, Brand Management
 ![image](RevenueForecast.png)
 
-## Exam
-![image](CFAExam.jpg)
-
 ## Pragmatic Marketing 
 ![image](PragmaticMarketingCertificate.jpg)
 
