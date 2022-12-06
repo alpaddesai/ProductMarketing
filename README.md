@@ -18,9 +18,6 @@ Please download the executable in https://github.com/alpaddesai/ProductMarketing
 ## Revenue Forecast, Brand Management
 ![image](RevenueForecast.png)
 
-## Pragmatic Marketing 
-![image](PragmaticMarketingCertificate.jpg)
-
 ## Product Marketing 
 ![image](image1.jpg)
 
