@@ -29,6 +29,9 @@ Please download the executable in https://github.com/alpaddesai/ProductMarketing
 
 ![image](image5.jpg)
 
+## Pragmatic certification
+![image](PragmaticMarketingCertificate.jpg)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
